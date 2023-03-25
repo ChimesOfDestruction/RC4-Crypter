@@ -6,7 +6,7 @@ Crypt and run in memory with RC4 algorithm.
 https://user-images.githubusercontent.com/127018596/227722799-e2751063-869a-4191-90ac-c6e553e95d04.mp4
 
 
-<br>
+⠀  
 Results with Antiscan (Scantime, not Runtime):  
 **Uncrypted RevengeRAT:** 22/26 Detections  
 **Crypted RevengeRAT:** 12/26 Detections  
