@@ -1,5 +1,6 @@
 # Basic RC4 Crypter (SRC by StarLabs, Mod by ChimesOfDestruction)
 Crypt and run in memory with RC4 algorithm.  
+Do not try to crypt njRAT payloads with this as Defender picks up and detects its behaviour.  
 #### Showcase bypassing Defender with RevengeRAT:
 
 
